@@ -1,0 +1,24 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "body": "Todays Agenda\n\n- Walk Dog\n- Feed fish\n- Play basketball\n- Eat a salad\n- Play football\n- Hang out with friends",
+      "updated": "2021-09-11T17:31:33.509Z"
+    },
+    {
+      "body": "New note:\n- Almost done with react tutorials\n- It feels great",
+      "updated": "2021-09-11T17:37:40.033Z",
+      "id": 2
+    },
+    {
+      "body": "This is for trials",
+      "updated": "2021-09-11T17:45:49.773Z",
+      "id": 3
+    },
+    {
+      "body": "Another one",
+      "updated": "2021-09-11T17:56:38.048Z",
+      "id": 4
+    }
+  ]
+}
